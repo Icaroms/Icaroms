@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o 〔Icaro Matheus〕 👋</h1>
+<h1 align="center">Olá, eu sou o Icaro Matheus 👋</h1>
 
 <p align="center">
   Estudante de <b>Análise e Desenvolvimento de Sistemas</b> em busca de oportunidade de <b>estágio</b><br>
@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/〔icaro-matheus〕/">
+  <a href="https://www.linkedin.com/in/icaro-matheus/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:〔icaroms.matheus@gmail.com〕@email.com">
+  <a href="mailto:icaroms.matheus@gmail.com@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -22,7 +22,7 @@
 - 🔭 Desenvolvendo projetos em **Java**, **Kotlin (Android)** e **Python**
 - 🌱 Aprofundando em 〔ex.: Spring Boot / testes automatizados / desenvolvimento Android〕
 - 🎯 Procurando **estágio** nas áreas de back-end, front-end, Android ou QA
-- 📍 〔Manaus - Amazonas〕, Brasil
+- 📍 Manaus - Amazonas, Brasil
 
 ---
 
@@ -78,8 +78,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 〔Triagem BPC-LOAS〕 | 〔Projeto Acadêmico Previdenciário〕 | 〔HTML, CSS, Javascript〕 |
-| 〔Pomodoro Room〕 | 〔Projeto baseado em Pomodoro〕 | 〔HTML, CSS, Javascript〕 |
+| Triagem BPC-LOAS | Projeto Acadêmico Previdenciário | HTML, CSS, Javascript |
+| Pomodoro Room | Projeto baseado em Pomodoro | HTML, CSS, Javascript |
 
 ---
 
